@@ -40,5 +40,5 @@ Download the complete project by GitHub option
 * **Contact email** - edfcbz@gmail.com
 
 ## 📄 License
-* No license, just download and use. Its Free! ! !
+* No license, just download and use. It's Free! ! !
 
